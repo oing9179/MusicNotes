@@ -81,14 +81,14 @@ Rhythmic Motives is a short, identifiable unit of rhythm.
 
 比较常见的为Triplet（三连音符）
 ![ch7_tuplet.png](ch7_tuplet.png)
-三连音也可以用来创造动机，而且也能给音乐变得多样化（variety）一些。
+三连音也可以用来创造动机，而且也能让音乐变得多样化（variety）一些。
 
 ## Shuffle Rhythm
 
 也叫做 Swing，最开始起源于爵士乐。
 ![ch7_shuffle_rhythm.png](ch7_shuffle_rhythm.png)
 Shuffle Rhythm 音乐例子  
-`Cross-rhythm sample I-WEsD11wFb6g.mp4`
+![Cross-rhythm sample I](https://www.youtube.com/watch?v=WEsD11wFb6g)
 
 # 第8章 Chords（和弦）
 
