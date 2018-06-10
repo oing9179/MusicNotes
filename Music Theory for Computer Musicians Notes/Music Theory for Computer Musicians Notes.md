@@ -88,7 +88,7 @@ Rhythmic Motives is a short, identifiable unit of rhythm.
 也叫做 Swing，最开始起源于爵士乐。
 ![ch7_shuffle_rhythm.png](ch7_shuffle_rhythm.png)
 Shuffle Rhythm 音乐例子  
-![Cross-rhythm sample I](https://www.youtube.com/watch?v=WEsD11wFb6g)
+[Cross-rhythm sample I](https://www.youtube.com/watch?v=WEsD11wFb6g)
 
 # 第8章 Chords（和弦）
 
