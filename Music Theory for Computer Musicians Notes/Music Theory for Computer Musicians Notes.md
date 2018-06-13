@@ -179,3 +179,7 @@ C (Root) + E (Third) + G (Fifth)
 ![ch8_the_3_primary_traids.png](ch8_the_3_primary_traids.png)
 
 # 第9章 The Natural Minor Scale（自然小调）
+
+（本章内容都会，所以没有笔记）
+
+# 第10章 Melody and Motives（旋律和动机）
