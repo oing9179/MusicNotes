@@ -210,7 +210,7 @@ To write a good motive, work on the rhythm first. Create a strong, distinctive r
 
 1. Why has the writer used this motive?  
     为什么作者用了这个动机?
-2. What do the intervals suggest?
+2. What do the intervals suggest?  
     所用到的音程想表达什么?
 
 # 第11章 和声小调和旋律小调（The Harmonic and Melodic Minor Scales）
