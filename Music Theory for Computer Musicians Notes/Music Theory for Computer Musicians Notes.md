@@ -183,3 +183,34 @@ C (Root) + E (Third) + G (Fifth)
 （本章内容都会，所以没有笔记）
 
 # 第10章 Melody and Motives（旋律和动机）
+
+## 动机（Motives）
+
+All memorable tunes are made up of recognizable motives.
+所有令人难忘的（或者说 在脑海里挥之不去的）音调都是由高辨识度的动机组成的。
+
+A motive is simply a short snippet of melody that is readily recognizable to the ear because of its distinctive rhythm.
+动机其实就是由一小段旋律构成的，因为这段旋律的节奏很独特，所以很容易被耳朵辨识。
+
+Whatever tunes you write, if they are to be memorable, they will be built up from motives.
+无论你要写什么曲调，如果想让它听起来令人难忘的话，就应该先从动机开始写。
+
+Motive generally employ 2 or 3 notes played with a strong, readily identifiable rhythm.
+动机一般是由2或3个音符构成的，并且带有在强烈的、易区分的节奏。
+
+Motives are usually the building blocks of a greater structure.
+动机（差不多）就是更大的乐段的积木。
+
+## 写个强烈的动机（Writing a Strong Motive）
+
+To write a good motive, work on the rhythm first. Create a strong, distinctive rhythm that the ear will immediately recognize.
+想要写个好的动机，首先应该在节奏上做文章。写一个能立即唤起耳朵的、强烈的、独特的节奏。
+
+分析别人的曲子里的动机的时候，可以思考下面几个问题：
+
+1. Why has the writer used this motive?  
+    为什么作者用了这个动机?
+2. What do the intervals suggest?
+    所用到的音程想表达什么?
+
+# 第11章 和声小调和旋律小调（The Harmonic and Melodic Minor Scales）
