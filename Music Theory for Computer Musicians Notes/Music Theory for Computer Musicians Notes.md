@@ -213,4 +213,30 @@ To write a good motive, work on the rhythm first. Create a strong, distinctive r
 2. What do the intervals suggest?  
     所用到的音程想表达什么?
 
-# 第11章 和声小调和旋律小调（The Harmonic and Melodic Minor Scales）
+# 第11章 The Harmonic and Melodic Minor Scales（和声小调和旋律小调）
+
+小调（Minor Scale）一共有三种形式：
+
+1. 自然小调（Natural Minor Scale）
+2. 和声小调（Harmonic Minor Scale）
+    7th 音符升高 1 个 semitone
+3. 旋律小调（Melodic Minor Scale）
+    6th 和 7th 音符升高 1 个 semitone
+
+## 和声小调（Harmonic Minor Scale）
+
+相比自然小调，和声小调的 7th 音符被升高了1个semitone，6th 和 7th 之间就有了一个称之为 Augmented 2nd 音程。  
+这样做的原因是 V 和弦就由原来的 minor chord变成了 majro chord。
+很久以前，一些音乐家觉得 V - i 和弦进程比 v - i 更具有说服力，因为 V 和弦里所有的音都能平滑的过渡到 i 和弦。
+
+自然小调的 v - i 和弦进程听起来比较柔和、安静; 旋律小调的 V - i 和弦进程听起来更强劲有力，也有更强的终结了的感觉。
+
+## 旋律小调（Melodic Minor Scale）
+
+还是很久以前的音乐家觉得和声小调的 7th 音符升高 1 个 semitone 后，觉得还是听起来不爽，于是又把 6th 音符升高了 1 个 semitone，于是就形成了旋律小调。
+旋律小调与大调的唯一区别就是 旋律小调的 3rd 音符比大调低 1 个 semitone。  
+为了抵消（counterbalance）这种大调的感觉，
+旋律小调的上行结构（从低音往高音弹奏）是 6th 和 7th 升高 1 个 semitone，
+下行结构（从高音往低音弹奏）是和自然小调一样的。
+
+# 第12章 Augmented and Diminished Interval and Interval Inversions（增音程和减音程以及音程转位）
