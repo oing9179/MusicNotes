@@ -35,7 +35,7 @@ Key在一个Scale的起始位置。比如 do re mi fa so la ti 里的 do 就是�
 
 ## Scale （调式）
 
-![ch2_notes](ch2_notes.png)
+![ch2_notes](ch2_notes.png)  
 根音从C开始，C D E F G A B C就是 Major Scale了。
 
 ## Interval（音程）
@@ -43,14 +43,15 @@ Key在一个Scale的起始位置。比如 do re mi fa so la ti 里的 do 就是�
 音程是两个音符之间的音调上的距离。  
 键盘上的每个键（包括白键和黑键）之间的间隔为 Semitone（半音）。  
 一个Octave（八度）里包含12个Semitone。  
-2 Semitones = 1 Tone（全音）
+2 Semitones = 1 Tone（全音）  
 ![ch3_interval](ch3_interval.png)
 
 # 第6章 Interval（音程）
 
 定义：两个音符（包含）之间音调的距离，或者说 从第1个音符（包含）数到第2个音符（包含）需要数多少。  
 比如从C到G一共有 C D E F G共5个音符，那么C到G的音程就叫做Fifth。  
-具体请参考本书第65页（PDF #82）的图6.3。  
+具体请参考本书第65页（PDF #82）的图6.3。
+
 当两个音符同时发声时，有些听起来比较顺耳（或者称之为 和谐），称之为 Concords，有些则不顺耳（不和谐），称之为 Discords。  
 
 ## Compound Intervals（复合音程）
@@ -79,14 +80,14 @@ Rhythmic Motives is a short, identifiable unit of rhythm.
 
 ## Tuplet（连音符）
 
-比较常见的为Triplet（三连音符）
-![ch7_tuplet.png](ch7_tuplet.png)
+比较常见的为Triplet（三连音符）  
+![ch7_tuplet.png](ch7_tuplet.png)  
 三连音也可以用来创造动机，而且也能让音乐变得多样化（variety）一些。
 
 ## Shuffle Rhythm
 
-也叫做 Swing，最开始起源于爵士乐。
-![ch7_shuffle_rhythm.png](ch7_shuffle_rhythm.png)
+也叫做 Swing，最开始起源于爵士乐。  
+![ch7_shuffle_rhythm.png](ch7_shuffle_rhythm.png)  
 Shuffle Rhythm 音乐例子  
 [Cross-rhythm sample I](https://www.youtube.com/watch?v=WEsD11wFb6g)
 
@@ -130,11 +131,11 @@ Minor Sixth 包含 8 个 semitone，音符频率比例为 8:5。
 这两种音程都被称之为 Discords。  
 
 Major Second 包含 2 个 semitone，Minor Second 包含 1 个 semitone。  
-![ch8_major_minor_second.png](ch8_major_minor_second.png)
+![ch8_major_minor_second.png](ch8_major_minor_second.png)  
 Minor Second 比 Major Second 听起来更不和谐一些。
 
 Major Seventh 包含 11 个 semitone，Minor Seventh 包含 10 个 semitone。  
-![ch8_major_minor_seventh.png](ch8_major_minor_seventh.png)
+![ch8_major_minor_seventh.png](ch8_major_minor_seventh.png)  
 Major Seventh 比 Minor Seventh 听起来更不和谐一些。  
 
 ## 音程的类型（Types of Intervals）
@@ -240,3 +241,15 @@ To write a good motive, work on the rhythm first. Create a strong, distinctive r
 下行结构（从高音往低音弹奏）是和自然小调一样的。
 
 # 第12章 Augmented and Diminished Interval and Interval Inversions（增音程和减音程以及音程转位）
+
+## Augmented and Diminished Intervals（增音程和减音程）
+
+$Diminished \xleftrightarrow{\text{semitone}} Minor \xleftrightarrow{\text{semitone}} Major \xleftrightarrow{\text{semitone}} Augmented$  
+$Diminished \xleftrightarrow{\text{semitone}} Perfect \xleftrightarrow{\text{semitone}} Augmented$
+
+## Interval Inversions（音程转位）
+
+![ch12_interval_inversion.png](ch12_interval_inversion.png)
+
+# 第13章 Chordal Inversions, Octave Doubling, and Spacing
+
