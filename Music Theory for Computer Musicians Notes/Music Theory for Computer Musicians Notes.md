@@ -253,3 +253,36 @@ $Diminished \xleftrightarrow{\text{semitone}} Perfect \xleftrightarrow{\text{sem
 
 # 第13章 Chordal Inversions, Octave Doubling, and Spacing
 
+## Harmony（和声）
+
+Triads 是构成和弦的基本元素，它包含3个音符：Root（根音）, Third（3度）, Fifth（5度）。  
+比如 C Major 和弦就包含 C（Root）-E(Thrid)-G(Fifth)。
+
+Root 是很重要的一个音，它代表着一个和弦的身份。比如 C Major 和弦就是以 Root C 命名的。  
+第2重要的音符是 Fifth，它和 Root 构成了一个和弦的骨架。  
+第3重要的音符是 Third，它与根音的音程决定了和弦的性质，是 Majro 还是 Minor。
+
+## Inverted Chords（和弦转位）
+
+Inverted chords occur when a note other thant the root occurs in the bass.  
+当和弦的最低音不是根音的时候，这个和弦称之为 转位和弦。
+
+![ch13_c_major_chord_inversions.png](ch13_c_major_chord_inversions.png)
+
+## Octave Doubling
+
+![ch13_octave_doubling.png](ch13_octave_doubling.png)  
+具体哪个音该不该 doubling，请阅读 "Harmony for Computer Musicians"。
+
+## Spacing
+
+使用音程转位和和弦转位来实现 Chordal Spacing。
+
+![ch13_a_minor_closed_spacing.png](ch13_a_minor_closed_spacing.png)  
+![ch13_a_minor_open_spacing.png](ch13_a_minor_open_spacing.png)
+
+![ch13_awkward_and_smooth_voice_leading.png](ch13_awkward_and_smooth_voice_leading.png)  
+Chordal Spacing 能让和弦进程听起来更平稳（Smooth）。  
+在经典和声学中，这种音符间平滑过度称之为 Voice Leading。
+
+# Additive Rhythms
