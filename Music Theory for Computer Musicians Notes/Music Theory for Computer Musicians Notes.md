@@ -283,7 +283,10 @@ Inverted chords occur when a note other thant the root occurs in the bass.
 
 ![ch13_awkward_and_smooth_voice_leading.png](ch13_awkward_and_smooth_voice_leading.png)  
 Chordal Spacing 能让和弦进程听起来更平稳（Smooth）。  
-在经典和声学中，这种音符间平滑过度称之为 Voice Leading。
+~~在经典和声学中，这种音符间平滑过度称之为 Voice Leading。~~  
+> Voice leading is the term used to describe the linear progression of melodic lines (voices) and their interaction with one another to create harmonies.  
+> Voice leading: 线性进行的多条旋律（也就是 Voices）之间的相互作用来创造和声。  
+> [Voice leading - wikipedia.org](https://en.wikipedia.org/wiki/Voice_leading)
 
 # 第14章 Additive Rhythms
 
