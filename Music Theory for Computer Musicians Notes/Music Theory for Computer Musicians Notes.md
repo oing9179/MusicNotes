@@ -285,4 +285,19 @@ Inverted chords occur when a note other thant the root occurs in the bass.
 Chordal Spacing 能让和弦进程听起来更平稳（Smooth）。  
 在经典和声学中，这种音符间平滑过度称之为 Voice Leading。
 
-# Additive Rhythms
+# 第14章 Additive Rhythms
+
+## Additive & Divisive Rhythm
+
+> For example, 4 may be evenly divided by 2 or reached by adding 2 + 2. In contrast, 5 is only evenly divisible by 5 and 1 and may be reached by adding 2 or 3. Thus, $\frac{4}{8}$ (or, more commonly, $\frac{2}{4}$) is divisive while $\frac{5}{8}$ is additive.  
+> 比如, 4 可以被2整除或者可以分解成 2 + 2。一般情况下，5只能被5和1整除，并且可以分解成 2 + 3。因此，$\frac{4}{8}$(或者说更常见的形式 $\frac{2}{4}$)是 Divisive rhythm，而 $\frac{5}{8}$ 是 Additive rhythm.  
+> [Additive rhythm and divisive rhythm - wikipedia.org](https://en.wikipedia.org/wiki/Additive_rhythm_and_divisive_rhythm)
+
+## Polyrhythm
+
+两个不同的节拍一起演奏，并且听起来还不错的。  
+有时候，这两种节拍的第一拍总会在某个时刻重合。
+
+[Additive Rhythm & Polyrhythm in Ableton Live 9 - youtube.com](https://www.youtube.com/watch?v=dGEuLcidn6Y)
+
+# 第15章 Expanding Your Knowledge of Keys
