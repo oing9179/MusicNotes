@@ -304,3 +304,13 @@ Chordal Spacing 能让和弦进程听起来更平稳（Smooth）。
 [Additive Rhythm & Polyrhythm in Ableton Live 9 - youtube.com](https://www.youtube.com/watch?v=dGEuLcidn6Y)
 
 # 第15章 Expanding Your Knowledge of Keys
+
+（本章内容都会，所以没有笔记）
+
+# 第16章 The Pentatonic Scale
+
+Penta: 5个的  
+Pentatonic: 5声音阶的
+
+Pentatonic Scale 里去掉了7音阶Scale的第4个音和第7个音，也就是只剩下 1 2 3 5 6 这5个音。  
+因为没有了 4 和 7，这5个音按同时按下也能听起来很和谐，所以经常用来教孩子学音乐。
