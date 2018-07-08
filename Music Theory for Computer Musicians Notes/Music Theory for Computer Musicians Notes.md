@@ -98,6 +98,13 @@ Shuffle Rhythm 音乐例子
 两个音符同时发声的时候，都会产生和声（或者说 根音+泛音（Overtone）），两个音符的和声相同的地方越多，两个音符混合的效果越好。  
 因此，有些音程听起来很和谐，称之为Concords，而有些音程听起来不和谐，称之为 Discords。
 
+## 和弦的构成
+
+一个和弦最少由3个音符堆叠起来，每个相邻音符之间的间距是个 3rd（3度，无论是 Major 3rd 还是 Minor 3rd）。  
+*由两个音程为5度的音符构成的和弦称之为 Power chord，该和弦不在本章的讨论范围内。*
+
+根音（也就是和弦的最低音）决定了这个和弦的身份（Identity），根音与其它音的音程决定了这个和先的味道（Flavour）。
+
 ## Perfect Concords
 
 听起来最和谐的音程就是 Octave，两个音符的频率之间的比例为2:1。因为它俩太和谐了，甚至听起来就像一个音一样。  
@@ -269,6 +276,8 @@ Inverted chords occur when a note other thant the root occurs in the bass.
 
 ![ch13_c_major_chord_inversions.png](ch13_c_major_chord_inversions.png)
 
+转位后的和弦因为根音不再是原来的根音了，也就意味着新的根音和其它音符的音程有所变化，所以和弦的味道会有些变化。
+
 ## Octave Doubling
 
 ![ch13_octave_doubling.png](ch13_octave_doubling.png)  
@@ -314,3 +323,49 @@ Pentatonic: 5声音阶的
 
 Pentatonic Scale 里去掉了7音阶Scale的第4个音和第7个音，也就是只剩下 1 2 3 5 6 这5个音。  
 因为没有了 4 和 7，这5个音按同时按下也能听起来很和谐，所以经常用来教孩子学音乐。
+
+# 第17章 Major, Minor, Augmented, and Diminished Triads
+
+（本章节开头部分先讲解了一下 Major 和 Minor traid，都是前面学过的内容。）
+
+## The Diminished Traid
+
+Diminished chord（减和弦） 就是 minor 3rd + minor 3rd。比如 C Major scale 的 Bdim 和弦就是 Diminished traid。  
+因为该和和弦是由两个 minor 3rd 组成的，所以听起来会特别不和谐。
+
+## The Augmented Traid
+
+Augmented chord（增和弦） 就是 major 3rd + major 3rd。
+因为根音到 5th 的音程是 Augmented 5th，所以听起来也会很不和谐。  
+该和弦具体会在 Chapter#21 和 Chapter #22 学到。
+
+# 第18章 Chord Progressions and Root Movement
+
+## Root Movement
+
+Root movement 对于一段和弦进程是很重要的，回想一下和弦那章提到的: 根音决定了和弦的身份。  
+一个和弦及其转位后的和弦所构成的和弦进程不算和弦进程，因为没有产生 Root Movement，无论转位后的低音是如何变化的。
+
+Root movement is subject to definite principles.  
+根音的变化受限于有限的一些的原则。
+
+Root Movement 一共有3种：4th, 3rd, 2nd。
+
+## Root Movement by Forths
+
+比如 G $\rightarrow$ Dm 就是 Falling Forths，G $\rightarrow$ C 就是 Rising Forths。  
+Root movement by forths is the strongest kind of root movement, and it is often use sequentially, such as in a circle of forths.  
+这种 movement 能让和弦之间产生很强烈的对比度。
+
+## Root Movement by Thirds
+
+这种 movement 会导致两个和弦之间有2个音符是相同的，这会让和弦进程过度起来很平滑。  
+因为过渡很平滑，所以就不会有 Root Movement by Forths 那样强烈的对比度。
+
+## Root Movement by Seconds
+
+两个和弦之间没有任何音符是相同的，因此这种过渡并不是很平缓，而且还会产生最强的对比度。
+
+在后面的章节里（第23章: 复杂和声（Complex Harmony））会提到，当和弦变得浓厚和复杂时，一组强烈的 root movement 能更容易让耳朵抓住那种感觉。
+
+# 第19章 The Cycle of Fifths（5度圈）
