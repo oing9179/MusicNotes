@@ -276,7 +276,8 @@ Inverted chords occur when a note other thant the root occurs in the bass.
 
 ![ch13_c_major_chord_inversions.png](ch13_c_major_chord_inversions.png)
 
-转位后的和弦因为根音不再是原来的根音了，也就意味着新的根音和其它音符的音程有所变化，所以和弦的味道会有些变化。
+~~转位后的和弦因为根音不再是原来的根音了，也就意味着新的根音和其它音符的音程有所变化，所以和弦的味道会有些变化。~~
+转位后的和弦因为最低音不是根音了，也就意味着新的低音和其它音符的音程有所变化，所以和弦的味道也会有些变化。
 
 ## Octave Doubling
 
