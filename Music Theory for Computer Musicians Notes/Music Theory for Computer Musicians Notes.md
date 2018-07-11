@@ -370,3 +370,14 @@ Root movement by forths is the strongest kind of root movement, and it is often 
 在后面的章节里（第23章: 复杂和声（Complex Harmony））会提到，当和弦变得浓厚和复杂时，一组强烈的 root movement 能更容易让耳朵抓住那种感觉。
 
 # 第19章 The Cycle of Fifths（5度圈）
+
+![Circle of fifths](ch19_circle_of_fifths_colors.png)
+
+从 C Major scale 开始，每升高5度，key signature 里就会多出一个 #; 每降低5度，key signature 里就会多出一个 b。Minor scale 同理。  
+有些音乐家主观上觉得：# 越多调式越明亮，b 越多调式越阴暗。
+
+![ch19 most closely related keys to C](ch19_most_closely_related_keys_to_C.png)
+
+离 C 最近的两个是 F 和 G，相比其它调式，这两个和 C 有最多的相同的音符。小调同理。
+
+# 第20章 The Seven Diatonic Modes
