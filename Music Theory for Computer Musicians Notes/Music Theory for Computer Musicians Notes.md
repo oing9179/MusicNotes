@@ -381,3 +381,46 @@ Root movement by forths is the strongest kind of root movement, and it is often 
 离 C 最近的两个是 F 和 G，相比其它调式，这两个和 C 有最多的相同的音符。小调同理。
 
 # 第20章 The Seven Diatonic Modes
+
+Diatonic 调式里，每个音符之间的半音间隔都是遵循一个规律的，区别在于不同的调式的根音在规律里的起点不一样。  
+用 T(Tone) 和 S(Semitone) 来标注调式里每个音的间隔，这个音程间隔规律就是: T T S T T T S，这样就有了 7 种不同的音程间隔组合，也就诞生了 7 种不同的调式。
+
+## The Ionian Mode
+
+也就是 Major Mode.  
+每个音之间的间隔: T T S T T T S
+
+## The Dorian Mode
+
+该模式的第一个音从 Major Mode 的第二个音开始循环。  
+每个音之间的间隔: T S T T T S T  
+听起来有古老、神话的感觉。
+
+## The Phrygian Mode
+
+每个音符之间的间隔: S T T T S T T  
+和 Minor Mode 相比，第 2 个音比 Minor Mode 的第二个音低半音。  
+听起来会有西班牙音乐的感觉。  
+把 Phrygian Mode 的第 3 个音升高半音后，演奏时候就更有西班牙的味道了。
+
+## The Lydian Mode
+
+每个音符之间的间隔: T T T S T T S  
+它与 Major Mode 的区别就是第 4 个音符升高了半音。
+这个调式听起来会有梦幻感、科技感，利用第4个音与 Major Mode 的不同也可以制造调皮、滑稽的感觉。
+
+## The Mixoledyan Mode
+
+每个音符之间的间隔: T T S T T S T  
+它与 Major Mode 的区别就是第 7 个音降低了半音。
+因为这个调式里的 1357 这 4 个音可以构成 Maj7 和弦，所以这个调式也经常被当作是蓝调或者爵士乐的调式。
+
+## The Aeolian Mode
+
+也就是 Nartual Mionr Mode.  
+每个音之间间隔: T S T T S T T
+
+## The Locrian Mode
+
+每个音符之间的间隔: S T T S T T T  
+这个调式是这7个调式里唯一一个 5 度音是 Dim 5th 的音，它的根音构成的和弦也就变成了一个减和弦，也因此 这个调式听起来很黑暗。
